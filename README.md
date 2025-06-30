@@ -38,6 +38,9 @@ Nach dem Versand wartet das System, bis der Abstand wieder stabil bleibt, um Meh
   - Batterie – ➜ **GND**
 
 ---
+### Schaltplan:
+![image](https://github.com/user-attachments/assets/916f4b27-17e4-4644-bd1d-1fdf3df0b2f1)
+
 
 ## ⚙️ Installation & Inbetriebnahme
 

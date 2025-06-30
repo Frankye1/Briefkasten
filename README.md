@@ -20,6 +20,7 @@ Nach dem Versand wartet das System, bis der Abstand wieder stabil bleibt, um Meh
 
 ---
 
+
 ## ⚙️ Installation & Inbetriebnahme
 
 1. **Arduino IDE installieren**  

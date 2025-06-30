@@ -9,7 +9,7 @@
 #define SMTP_HOST "smtp.gmail.com"
 #define SMTP_PORT 465
 #define AUTHOR_EMAIL "Author_Email"
-#define AUTHOR_PASSWORD "App_Passworf"
+#define AUTHOR_PASSWORD "App_Password"
 #define RECIPIENT_EMAIL "receipe_Email"
 
 // Sensor

@@ -19,7 +19,25 @@ Nach dem Versand wartet das System, bis der Abstand wieder stabil bleibt, um Meh
 - **Micro-USB Kabel** – zur Stromversorgung und Programmierung
 
 ---
+## 🔌 Verkabelung – Schritt für Schritt
 
+### Ultraschallsensor an ESP8266:
+
+| Sensor Pin | ESP8266 Anschluss | Beschreibung                            |
+|------------|-------------------|-----------------------------------------|
+| VCC        | „5V“              | 5 V vom USB-Port                        |
+| GND        | GND               | Gemeinsame Masse                        |
+| TRIG       | D1 (GPIO5)        | Signal zum Senden des Schallimpulses    |
+| ECHO       | D2 (GPIO4)        | Eingang (über Spannungsteiler auf 5 V)  |
+
+### Stromversorgung:
+
+- Per **Micro-USB** mit Powerbank oder USB-Netzteil
+- Alternativ:
+  - Batterie + ➜ **VU / 5V**
+  - Batterie – ➜ **GND**
+
+---
 
 ## ⚙️ Installation & Inbetriebnahme
 

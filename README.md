@@ -34,7 +34,7 @@ Nach dem Versand wartet das System, bis der Abstand wieder stabil bleibt, um Meh
 
 - Per **Micro-USB** mit Powerbank oder USB-Netzteil
 - Alternativ:
-  - Batterie + ➜ **VU / 5V**
+  - Batterie + ➜ **3.3V / 5V**
   - Batterie – ➜ **GND**
 
 ---

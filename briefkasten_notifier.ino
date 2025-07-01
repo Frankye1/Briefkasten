@@ -20,8 +20,8 @@ SMTPSession smtp;
 
 float lastDistance = 0.0;
 bool mailSent = false;
-unsigned long lastChangeTime = 0;
-const float changeThreshold = 1.0;       
+unsigned long lastChangeTime = 0; //Merkt sich die Zeit (in Millisekunden seit Start), wann die letzte Änderung erkannt wurde
+const float changeThreshold = 1.0; // Legt fest, dass eine Änderung von mindestens 1.0 cm als „Brief eingeworfen“ erkannt wird.      
 const unsigned long resetDelay = 10000;  
 
 void setup() {
